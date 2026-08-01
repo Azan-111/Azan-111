@@ -27,7 +27,6 @@ Hey there! I'm an AI developer, web developer, and automation specialist with a 
 ### 📬 Let's Connect
 
 I'm always open to collaborating, learning from others, or geeking out over AI and automation!
-Email:hafizazanrashid@gmail.com, Linkedin:https://www.linkedin.com/in/azan-rashid-738926383/
-### 📬 Let's Connect
 
-I'm always open to collaborating, learning from others, or geeking out over AI and automation!
+Email:hafizazanrashid@gmail.com
+Linkedin:https://www.linkedin.com/in/azan-rashid-738926383/
